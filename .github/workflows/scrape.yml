@@ -1,0 +1,38 @@
+name: Scrape
+
+on:
+  workflow_dispatch:
+  pull_request:
+    branches:
+      - master
+  schedule:
+    # runs the CI weekly
+    - cron: "0 0 * * 0"
+
+env:
+  branch: "master"
+
+jobs:
+  scrape:
+    name: Scrape
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v1
+        with:
+          ref: ${{ env.branch }}
+          token: ${{ secrets.REPO_TOKEN }}
+
+      - name: Scrape
+        id: scrape
+        uses: actions/github-script@v4
+        with:
+          script: |
+            const script = require('./.github/scripts/scrape.js')
+            await script({github, context, core})
+
+      - name: Commit Changes
+        working-directory: .github/scripts
+        run: sh ./commit_changes.sh
+        env:
+          TOKEN: ${{ secrets.REPO_TOKEN }}
+          BRANCH: ${{ env.branch }}

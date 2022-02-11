@@ -1,0 +1,187 @@
+{
+  "name": "Jeremiah Ogbomo",
+  "description": "Think. Code. Love.",
+  "image_url": "https://www.gravatar.com/avatar/96b338e14ff9d18b1b2d6e5dc279a710?s=136&d=identicon&r=PG",
+  "occupation": "Software Engineer",
+  "location": "Rotterdam, The Netherlands",
+  "email": "jeremiahogbomo@gmail.com",
+  "twitter": "jogboms",
+  "github": "jogboms",
+  "website": "https://jogboms.github.io",
+  "technologies": [
+    "javascript",
+    "typescript",
+    "dartlang",
+    "flutter",
+    "redux",
+    "google-cloud-firestore",
+    "kotlin",
+    "reactjs"
+  ],
+  "experiences": [
+    {
+      "name": "Software Engineer",
+      "company": "Mendix Technology B.V",
+      "website": "https://www.mendix.com",
+      "description": "",
+      "start": "2019-04-01T00:00:00Z",
+      "end": "2021-08-31T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "react",
+        "react-native",
+        "electron",
+        "mobx"
+      ],
+      "icon": "mendix"
+    },
+    {
+      "name": "Software Engineer",
+      "company": "ROM-FLEX Networks LTD",
+      "description": "I build and handle all things Javascript, TypeScript and Dart on a daily basis, Frontend with Angular, Backend with Node, Mobile with Flutter & Nativescript and Desktop with Electron.",
+      "start": "2017-04-01T00:00:00Z",
+      "end": "2019-03-31T00:00:00Z",
+      "technologies": [
+        "angular",
+        "nativescript",
+        "flutter",
+        "redux"
+      ],
+      "icon": "office"
+    }
+  ],
+  "opensource": [
+    "jogboms/time.dart",
+    "jogboms/bunq.dart",
+    "jogboms/ravepay.dart",
+    "jogboms/flutter_offline",
+    "jogboms/flutter_spinkit",
+    "jogboms/tailor_made",
+    "jogboms/developer-story",
+    "jogboms/flutter_scale_aware",
+    "jogboms/pnyws",
+    "jogboms/rijksbook",
+    "jogboms/Event-Bus",
+    "jogboms/push"
+  ],
+  "applications": [
+    {
+      "name": "Rijksbook: An art viewer.",
+      "date": "2022-01-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "minimal"
+      ],
+      "description": "🖼 A basic Flutter app built for educational purposes.",
+      "links": {
+        "web": "https://github.com/jogboms/rijksbook"
+      },
+      "icon": "repo"
+    },
+    {
+      "name": "Pnyws (PennyWise): An expense tracker.",
+      "date": "2020-02-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "firebase",
+        "redux"
+      ],
+      "description": "Pnyws is what actually started out as a weekend vacation project for experimenting with Canvas, BoxScrollView and RenderSliver. It turned out to be clean, easy on the eyes and overall has a very smooth feel.",
+      "links": {
+        "web": "https://github.com/jogboms/pnyws"
+      },
+      "icon": "repo"
+    },
+    {
+      "name": "BoroMe Loan App",
+      "date": "2020-01-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "redux",
+        "sentry"
+      ],
+      "description": "BoroMe® is a Fintech company with a vision to be the leaders in financial services and the quickest way for people to get access to personal loans. BoroMe® makes access to short-term loans fast, easy & reliable on your mobile phone. The BoroMe® App is a free & secure mobile app, available in Nigeria. Get up to N100,000 instantly with no paperwork and low interest rate!",
+      "links": {
+        "ios": "https://apps.apple.com/us/app/id1509031811",
+        "android": "https://play.google.com/store/apps/details?id=ng.borome.apps"
+      },
+      "icon": "borome"
+    },
+    {
+      "name": "Lumia NG",
+      "date": "2019-06-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "redux"
+      ],
+      "description": "Lumia is a power vending platform that helps Nigerians pay both for prepaid and postpaid electricity bills from the comfort of their homes and offices.\n\nLumia makes electricity payments easy, with a unique three tap experience.",
+      "links": {
+        "ios": "https://apps.apple.com/nl/app/lumia-ng/id1466499802?l=en",
+        "android": "https://play.google.com/store/apps/details?id=com.lumia.apps"
+      },
+      "icon": "lumia"
+    },
+    {
+      "name": "GiveNow",
+      "date": "2018-08-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "redux"
+      ],
+      "description": "Givenow is a platform that enables organizations and individuals run successful donation campaigns.\n\nGivenow makes donations easy, with a unique three tap experience.",
+      "links": {
+        "ios": "https://itunes.apple.com/us/app/givenow-ng/id1403238206?mt=8&ign-mpt=uo%3D4",
+        "android": "https://play.google.com/store/apps/details?id=ng.givenow.apps"
+      },
+      "icon": "givenow"
+    },
+    {
+      "name": "TailorMade",
+      "date": "2018-07-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "redux"
+      ],
+      "description": "Helping you manage your Fashion store daily routine.",
+      "links": {
+        "android": "https://play.google.com/store/apps/details?id=io.github.jogboms.tailormade",
+        "web": "https://github.com/jogboms/tailor_made"
+      },
+      "icon": "tailormade"
+    },
+    {
+      "name": "FixersHub",
+      "date": "2018-05-01T00:00:00Z",
+      "technologies": [
+        "angular",
+        "nativescript",
+        "redux"
+      ],
+      "description": "FixersHub is a secured way to get experienced and trusted technicians in your private space with minimal security risk.",
+      "links": {
+        "ios": "https://itunes.apple.com/us/app/fixershub/id1356161100?ls=1&mt=8"
+      },
+      "icon": "fixershub"
+    }
+  ],
+  "artifacts": [
+    {
+      "name": "Saturday Flutter Experiments",
+      "url": "https://twitter.com/i/events/1486311891072806912",
+      "date": "2021-01-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "flutter-animation",
+        "flutter-layout"
+      ],
+      "description": "A series of experimental user interfaces built entirely in Flutter.",
+      "icon": "twitter"
+    }
+  ],
+  "tools": [
+    "Android Studio",
+    "IntelliJ",
+    "VSCode"
+  ]
+}
