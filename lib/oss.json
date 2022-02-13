@@ -49,16 +49,6 @@
     "additions": 12192,
     "deletions": 5302
   },
-  "jogboms/flutter_ravepay": {
-    "name": "jogboms/flutter_ravepay",
-    "description": "Flutter integration for Flutterwave's Rave payment platform",
-    "stars": 58,
-    "first_commit_date": "2018-05-13T00:00:00.000Z",
-    "last_commit_date": "2018-08-05T00:00:00.000Z",
-    "commits": 51,
-    "additions": 5087,
-    "deletions": 1906
-  },
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
@@ -69,15 +59,13 @@
     "additions": 86755,
     "deletions": 64815
   },
-  "mkloubert/nativescript-social-login": {
-    "name": "mkloubert/nativescript-social-login",
-    "description": "NativeScript plugin for social (token based) log-ins.",
-    "stars": 43,
-    "first_commit_date": "2016-05-01T00:00:00.000Z",
-    "last_commit_date": "2017-10-29T00:00:00.000Z",
-    "commits": 53,
-    "additions": 4716,
-    "deletions": 2069
+  "jogboms/developer-story": {
+    "name": "jogboms/developer-story",
+    "description": "StackOverflow is sunsetting the developer story feature. See https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story",
+    "stars": 1,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/flutter_scale_aware": {
     "name": "jogboms/flutter_scale_aware",
@@ -99,53 +87,15 @@
     "additions": 8242,
     "deletions": 3000
   },
-  "jogboms/nativescript-paystack": {
-    "name": "jogboms/nativescript-paystack",
-    "description": "Nativescript integration for Paystack payment platform",
-    "stars": 13,
-    "first_commit_date": "2018-01-21T00:00:00.000Z",
-    "last_commit_date": "2018-03-18T00:00:00.000Z",
-    "commits": 79,
-    "additions": 5789,
-    "deletions": 1904
-  },
-  "triniwiz/nativescript-socketio": {
-    "name": "triniwiz/nativescript-socketio",
-    "description": "Socket.IO for nativescript",
-    "stars": 72,
-    "first_commit_date": "2016-03-06T00:00:00.000Z",
-    "last_commit_date": "2021-02-07T00:00:00.000Z",
-    "commits": 83,
-    "additions": 25072,
-    "deletions": 22710
-  },
-  "jogboms/ClinicRegistry": {
-    "name": "jogboms/ClinicRegistry",
-    "description": null,
-    "stars": 2,
-    "first_commit_date": "2016-06-19T00:00:00.000Z",
-    "last_commit_date": "2017-07-23T00:00:00.000Z",
-    "commits": 8,
-    "additions": 10902,
-    "deletions": 755
-  },
-  "jogboms/DentalRegistry": {
-    "name": "jogboms/DentalRegistry",
-    "description": "An Angular4 + NWjs patient registry software.",
-    "stars": 1,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
-  },
-  "jogboms/EziNote": {
-    "name": "jogboms/EziNote",
-    "description": "A simply beautiful notepad.",
-    "stars": 12,
-    "first_commit_date": "2016-09-11T00:00:00.000Z",
-    "last_commit_date": "2016-09-11T00:00:00.000Z",
-    "commits": 7,
-    "additions": 50165,
-    "deletions": 2
+  "jogboms/rijksbook": {
+    "name": "jogboms/rijksbook",
+    "description": "🖼 A basic Flutter app built for educational purposes",
+    "stars": 34,
+    "first_commit_date": "2022-01-02T00:00:00.000Z",
+    "last_commit_date": "2022-01-16T00:00:00.000Z",
+    "commits": 64,
+    "additions": 5868,
+    "deletions": 850
   },
   "jogboms/Event-Bus": {
     "name": "jogboms/Event-Bus",
