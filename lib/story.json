@@ -21,6 +21,35 @@
   "experiences": [
     {
       "name": "Software Engineer",
+      "company": "Albert Heijn Technology",
+      "website": "https://www.ah.nl",
+      "description": "",
+      "start": "2022-03-01T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "flutter",
+        "flutter-bloc"
+      ],
+      "icon": "ah"
+    },
+    {
+      "name": "Senior Flutter Engineer",
+      "company": "Freshflow",
+      "website": "https://freshflow.ai",
+      "description": "",
+      "start": "2021-06-01T00:00:00Z",
+      "end": "2022-02-01T00:00:00Z",
+      "technologies": [
+        "android",
+        "ios",
+        "flutter",
+        "redux"
+      ],
+      "icon": "freshflow"
+    },
+    {
+      "name": "Software Engineer",
       "company": "Mendix Technology B.V",
       "website": "https://www.mendix.com",
       "description": "",
