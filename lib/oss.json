@@ -3,11 +3,9 @@
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
     "stars": 432,
-    "first_commit_date": "2019-10-06T00:00:00.000Z",
-    "last_commit_date": "2021-12-05T00:00:00.000Z",
-    "commits": 33,
-    "additions": 707,
-    "deletions": 195
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/bunq.dart": {
     "name": "jogboms/bunq.dart",
@@ -32,7 +30,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 787,
+    "stars": 790,
     "first_commit_date": "2018-09-02T00:00:00.000Z",
     "last_commit_date": "2022-02-06T00:00:00.000Z",
     "commits": 27,
@@ -42,7 +40,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2525,
+    "stars": 2531,
     "first_commit_date": "2018-06-24T00:00:00.000Z",
     "last_commit_date": "2022-03-20T00:00:00.000Z",
     "commits": 86,
@@ -52,7 +50,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 248,
+    "stars": 250,
     "first_commit_date": "2018-04-08T00:00:00.000Z",
     "last_commit_date": "2019-12-01T00:00:00.000Z",
     "commits": 209,
