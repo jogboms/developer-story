@@ -32,7 +32,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 798,
+    "stars": 799,
     "first_commit_date": "2018-09-02T00:00:00.000Z",
     "last_commit_date": "2022-02-06T00:00:00.000Z",
     "commits": 27,
@@ -42,7 +42,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2552,
+    "stars": 2557,
     "first_commit_date": "2018-06-24T00:00:00.000Z",
     "last_commit_date": "2022-03-20T00:00:00.000Z",
     "commits": 86,
@@ -52,7 +52,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 250,
+    "stars": 251,
     "first_commit_date": "2018-04-08T00:00:00.000Z",
     "last_commit_date": "2019-12-01T00:00:00.000Z",
     "commits": 209,
@@ -62,7 +62,7 @@
   "jogboms/developer-story": {
     "name": "jogboms/developer-story",
     "description": "StackOverflow is sunsetting the developer story feature. See https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story",
-    "stars": 6,
+    "stars": 7,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -90,7 +90,7 @@
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
     "description": "🖼 A basic Flutter app built for educational purposes",
-    "stars": 35,
+    "stars": 36,
     "first_commit_date": "2022-01-02T00:00:00.000Z",
     "last_commit_date": "2022-01-16T00:00:00.000Z",
     "commits": 64,
