@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 445,
+    "stars": 446,
     "first_commit_date": "2019-10-06T00:00:00.000Z",
     "last_commit_date": "2022-05-29T00:00:00.000Z",
     "commits": 36,
@@ -32,7 +32,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 799,
+    "stars": 801,
     "first_commit_date": "2018-09-02T00:00:00.000Z",
     "last_commit_date": "2022-02-06T00:00:00.000Z",
     "commits": 27,
@@ -42,7 +42,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2562,
+    "stars": 2569,
     "first_commit_date": "2018-06-24T00:00:00.000Z",
     "last_commit_date": "2022-03-20T00:00:00.000Z",
     "commits": 86,
