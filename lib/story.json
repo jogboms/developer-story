@@ -16,6 +16,7 @@
     "redux",
     "google-cloud-firestore",
     "kotlin",
+    "swift",
     "reactjs"
   ],
   "experiences": [
@@ -91,10 +92,29 @@
     "jogboms/flutter_scale_aware",
     "jogboms/pnyws",
     "jogboms/rijksbook",
+    "jogboms/iirc",
     "jogboms/Event-Bus",
     "jogboms/push"
   ],
   "applications": [
+    {
+      "name": "IIRC: If I remember correctly.",
+      "date": "2022-07-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "riverpod",
+        "google-cloud-firestore",
+        "firebase-analytics",
+        "firebase-crashlytics",
+        "pwa"
+      ],
+      "description": "🤔 An app for keeping track of important recurring events.",
+      "links": {
+        "source": "https://github.com/jogboms/iirc",
+        "web": "https://iirc.vercel.app"
+      },
+      "icon": "repo"
+    },
     {
       "name": "Rijksbook: An art viewer.",
       "date": "2022-01-01T00:00:00Z",
@@ -104,7 +124,7 @@
       ],
       "description": "🖼 A basic Flutter app built for educational purposes.",
       "links": {
-        "web": "https://github.com/jogboms/rijksbook"
+        "source": "https://github.com/jogboms/rijksbook"
       },
       "icon": "repo"
     },
@@ -118,7 +138,7 @@
       ],
       "description": "Pnyws is what actually started out as a weekend vacation project for experimenting with Canvas, BoxScrollView and RenderSliver. It turned out to be clean, easy on the eyes and overall has a very smooth feel.",
       "links": {
-        "web": "https://github.com/jogboms/pnyws"
+        "source": "https://github.com/jogboms/pnyws"
       },
       "icon": "repo"
     },
@@ -175,7 +195,7 @@
       "description": "Helping you manage your Fashion store daily routine.",
       "links": {
         "android": "https://play.google.com/store/apps/details?id=io.github.jogboms.tailormade",
-        "web": "https://github.com/jogboms/tailor_made"
+        "source": "https://github.com/jogboms/tailor_made"
       },
       "icon": "tailormade"
     },

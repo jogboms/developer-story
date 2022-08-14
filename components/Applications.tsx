@@ -24,7 +24,10 @@ export const Applications = ({ items }: { items: Application[] }) => (
               <IconButton icon="android" url={application.links.android} />
             )}
             {application.links.web && (
-              <IconButton icon="link" url={application.links.web} />
+              <IconButton icon="internet" url={application.links.web} />
+            )}
+            {application.links.source && (
+              <IconButton icon="link" url={application.links.source} />
             )}
           </span>
         </div>
@@ -48,7 +51,7 @@ const IconButton = ({
   icon,
   url,
 }: {
-  icon: "link" | "apple" | "android";
+  icon: "internet" | "link" | "apple" | "android";
   url: string;
 }) => (
   <a
