@@ -97,6 +97,14 @@
     "additions": 5868,
     "deletions": 850
   },
+  "jogboms/iirc": {
+    "name": "jogboms/iirc",
+    "description": "🤔 IIRC (If I remember correctly): For keeping track of important recurring events.",
+    "stars": 7,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
+  },
   "jogboms/Event-Bus": {
     "name": "jogboms/Event-Bus",
     "description": "A micro event emitting and management system for PHP",
