@@ -29,8 +29,8 @@ export const Experiences = ({ items }: { items: Experience[] }) => (
           </span>
           <p className="text-xs my-0.5">
             <span className="text-slate-700">
-              {startDate.format(dateFormat)} →{" "}
-              {experience.end && endDate.format(dateFormat)}
+              {startDate.format(dateFormat)}
+              {experience.end && ` → ${endDate.format(dateFormat)}`}
             </span>
             <span className="text-slate-600 ml-1">
               ({endDate.from(experience.start, true)})

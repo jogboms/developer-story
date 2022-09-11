@@ -110,10 +110,11 @@
       ],
       "description": "🤔 An app for keeping track of important recurring events.",
       "links": {
-        "source": "https://github.com/jogboms/iirc",
-        "web": "https://iirc.vercel.app"
+        "android": "https://play.google.com/store/apps/details?id=io.github.jogboms.iirc",
+        "web": "https://iirc.vercel.app",
+        "source": "https://github.com/jogboms/iirc"
       },
-      "icon": "repo"
+      "icon": "iirc"
     },
     {
       "name": "Rijksbook: An art viewer.",
