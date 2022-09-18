@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 458,
+    "stars": 459,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -34,7 +34,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2609,
+    "stars": 2610,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -42,7 +42,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 262,
+    "stars": 263,
     "commits": 0,
     "additions": 0,
     "deletions": 0
