@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 465,
+    "stars": 466,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -26,7 +26,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 836,
+    "stars": 838,
     "commits": 0,
     "additions": 0,
     "deletions": 0
