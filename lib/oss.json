@@ -26,7 +26,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 882,
+    "stars": 888,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -34,7 +34,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2763,
+    "stars": 2767,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/developer-story": {
     "name": "jogboms/developer-story",
     "description": "StackOverflow is sunsetting the developer story feature. See https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story",
-    "stars": 10,
+    "stars": 9,
     "commits": 0,
     "additions": 0,
     "deletions": 0
