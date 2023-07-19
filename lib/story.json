@@ -83,6 +83,8 @@
   ],
   "opensource": [
     "jogboms/time.dart",
+    "jogboms/registry.dart",
+    "jogboms/money.dart",
     "jogboms/bunq.dart",
     "jogboms/ravepay.dart",
     "jogboms/flutter_offline",
@@ -93,10 +95,28 @@
     "jogboms/pnyws",
     "jogboms/rijksbook",
     "jogboms/iirc",
+    "jogboms/ovavue",
     "jogboms/Event-Bus",
     "jogboms/push"
   ],
   "applications": [
+    {
+      "name": "Ovavue",
+      "date": "2023-04-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "riverpod",
+        "drift",
+        "sqlite"
+      ],
+      "description": "💸 A tidy budget overview planner.",
+      "links": {
+        "ios": "https://apps.apple.com/app/ovavue/id6449617480",
+        "android": "https://play.google.com/store/apps/details?id=io.github.jogboms.ovavue",
+        "source": "https://github.com/jogboms/ovavue"
+      },
+      "icon": "ovavue"
+    },
     {
       "name": "IIRC: If I remember correctly.",
       "date": "2022-07-01T00:00:00Z",
