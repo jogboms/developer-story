@@ -21,18 +21,25 @@ module.exports = async function ({ github, core }) {
           repo,
         })
         .then((result) =>
-          Array.isArray(result.data)
-            ? result.data.find(({ author }) => author["login"] === owner)
-            : undefined
+          {
+            console.log('----------------------------')
+            console.log(`${owner}/${repo}: ${Array.isArray(result.data)}`)
+            console.dir(result)
+            return Array.isArray(result.data)
+              ? result.data.find(({ author }) => author["login"] === owner)
+              : undefined;
+          }
         )
         .then((stats) => {
           const emptyResult = { additions: 0, deletions: 0, commits: 0 };
           if (!stats) {
+            console.log(`Empty stats: ${repo}`);
             return emptyResult;
           }
 
           const weekly = stats["weeks"];
           if (!weekly || weekly.length === 0) {
+            console.log(`Empty weeks: ${repo}`);
             return emptyResult;
           }
 
