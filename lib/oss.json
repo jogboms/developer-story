@@ -19,10 +19,8 @@
     "name": "jogboms/money.dart",
     "description": "A currency formatting utility",
     "stars": 6,
-    "first_commit_date": "2023-07-02T00:00:00.000Z",
-    "last_commit_date": "2023-07-02T00:00:00.000Z",
-    "commits": 1,
-    "additions": 339,
+    "commits": 0,
+    "additions": 0,
     "deletions": 0
   },
   "jogboms/bunq.dart": {
@@ -37,26 +35,22 @@
     "name": "jogboms/ravepay.dart",
     "description": "💳 RavePay by Flutterwave Dart SDK. http://rave.flutterwave.com",
     "stars": 21,
-    "first_commit_date": "2019-02-10T00:00:00.000Z",
-    "last_commit_date": "2019-12-08T00:00:00.000Z",
-    "commits": 22,
-    "additions": 5932,
-    "deletions": 2858
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 900,
-    "first_commit_date": "2018-09-02T00:00:00.000Z",
-    "last_commit_date": "2023-07-02T00:00:00.000Z",
-    "commits": 29,
-    "additions": 5039,
-    "deletions": 2942
+    "stars": 901,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2776,
+    "stars": 2779,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -64,12 +58,10 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 297,
-    "first_commit_date": "2018-04-08T00:00:00.000Z",
-    "last_commit_date": "2023-07-02T00:00:00.000Z",
-    "commits": 270,
-    "additions": 125956,
-    "deletions": 99832
+    "stars": 298,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/developer-story": {
     "name": "jogboms/developer-story",
@@ -83,21 +75,17 @@
     "name": "jogboms/flutter_scale_aware",
     "description": "🎗 Scale-based layouts with a bit more ease, powered by extensions.",
     "stars": 25,
-    "first_commit_date": "2019-11-03T00:00:00.000Z",
-    "last_commit_date": "2021-05-30T00:00:00.000Z",
-    "commits": 19,
-    "additions": 3504,
-    "deletions": 1045
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/pnyws": {
     "name": "jogboms/pnyws",
     "description": "💰 Pnyws (PennyWise): An expense tracker.",
     "stars": 34,
-    "first_commit_date": "2020-02-09T00:00:00.000Z",
-    "last_commit_date": "2020-08-02T00:00:00.000Z",
-    "commits": 75,
-    "additions": 8242,
-    "deletions": 3000
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
@@ -127,11 +115,9 @@
     "name": "jogboms/Event-Bus",
     "description": "A micro event emitting and management system for PHP",
     "stars": 2,
-    "first_commit_date": "2016-03-27T00:00:00.000Z",
-    "last_commit_date": "2016-03-27T00:00:00.000Z",
-    "commits": 5,
-    "additions": 694,
-    "deletions": 166
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/push": {
     "name": "jogboms/push",
