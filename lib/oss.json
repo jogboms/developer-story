@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 478,
+    "stars": 480,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -10,14 +10,14 @@
   "jogboms/registry.dart": {
     "name": "jogboms/registry.dart",
     "description": "🤿 A super-tiny service locator, \\o/",
-    "stars": 16,
+    "stars": 18,
     "commits": 0,
     "additions": 0,
     "deletions": 0
   },
   "jogboms/money.dart": {
     "name": "jogboms/money.dart",
-    "description": "A currency formatting utility",
+    "description": "💵 A currency formatting utility",
     "stars": 6,
     "commits": 0,
     "additions": 0,
@@ -42,7 +42,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 903,
+    "stars": 904,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2784,
+    "stars": 2787,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -58,7 +58,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 298,
+    "stars": 299,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -106,7 +106,7 @@
   "jogboms/ovavue": {
     "name": "jogboms/ovavue",
     "description": "💸 A tidy budget overview planner.",
-    "stars": 36,
+    "stars": 38,
     "commits": 0,
     "additions": 0,
     "deletions": 0
