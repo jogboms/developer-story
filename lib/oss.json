@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 480,
+    "stars": 481,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -42,7 +42,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 912,
+    "stars": 913,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2796,
+    "stars": 2806,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -58,7 +58,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 300,
+    "stars": 301,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -90,7 +90,7 @@
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
     "description": "🖼 A basic Flutter app built for educational purposes",
-    "stars": 38,
+    "stars": 39,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -106,7 +106,7 @@
   "jogboms/ovavue": {
     "name": "jogboms/ovavue",
     "description": "💸 A tidy budget overview planner.",
-    "stars": 41,
+    "stars": 42,
     "commits": 0,
     "additions": 0,
     "deletions": 0
