@@ -14,7 +14,7 @@ export const Experiences = ({ items }: { items: Experience[] }) => (
       const endDate = dayjs(experience.end ?? Date.now());
 
       return (
-        <IconListItem key={experience.name} icon={experience.icon}>
+        <IconListItem key={experience.name + startDate} icon={experience.icon}>
           <div className="flex flex-row items-center">
             <span className="text-lg lg:text-xl mr-2">{experience.name}</span>
           </div>

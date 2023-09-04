@@ -12,7 +12,7 @@ export const IconListItem = ({
   fadedIcon?: boolean;
 }) => (
   <div className="flex flex-row gap-x-3 md:gap-x-4 lg:gap-x-5">
-    <div>
+    <div className="min-w-fit">
       <Image
         className={`rounded-lg ${fadedIcon ? "opacity-25" : ""}`}
         src={`/icons/${icon}.png`}
