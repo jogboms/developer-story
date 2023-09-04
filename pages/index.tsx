@@ -10,6 +10,7 @@ import {
   OpenSourceSoftwares,
 } from "../components";
 import { ReactNode } from "react";
+import { Analytics } from "@vercel/analytics/react";
 
 const Home: NextPage = () => {
   const story = data.story;
@@ -32,6 +33,8 @@ const Home: NextPage = () => {
         <meta name="og:url" content={story.website} />
         <meta name="og:description" content={story.description} />
       </Head>
+
+      <Analytics />
 
       <main className="mt-8 md:mt-16 mb-32">
         <Header
