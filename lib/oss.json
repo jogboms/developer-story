@@ -10,7 +10,7 @@
   "jogboms/registry.dart": {
     "name": "jogboms/registry.dart",
     "description": "🤿 A super-tiny service locator, \\o/",
-    "stars": 19,
+    "stars": 21,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -42,7 +42,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 913,
+    "stars": 914,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2806,
+    "stars": 2810,
     "commits": 0,
     "additions": 0,
     "deletions": 0
