@@ -10,7 +10,7 @@
   "jogboms/registry.dart": {
     "name": "jogboms/registry.dart",
     "description": "🤿 A super-tiny service locator, \\o/",
-    "stars": 23,
+    "stars": 25,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2831,
+    "stars": 2835,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -58,7 +58,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 307,
+    "stars": 310,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -98,7 +98,7 @@
   "jogboms/iirc": {
     "name": "jogboms/iirc",
     "description": "🤔 IIRC (If I remember correctly): For keeping track of important recurring events.",
-    "stars": 49,
+    "stars": 50,
     "commits": 0,
     "additions": 0,
     "deletions": 0
