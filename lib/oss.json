@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 486,
+    "stars": 487,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -42,7 +42,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 944,
+    "stars": 948,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 2862,
+    "stars": 2869,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -90,7 +90,7 @@
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
     "description": "🖼 A basic Flutter app built for educational purposes",
-    "stars": 39,
+    "stars": 40,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -98,7 +98,7 @@
   "jogboms/iirc": {
     "name": "jogboms/iirc",
     "description": "🤔 IIRC (If I remember correctly): For keeping track of important recurring events.",
-    "stars": 50,
+    "stars": 51,
     "commits": 0,
     "additions": 0,
     "deletions": 0
