@@ -238,7 +238,7 @@
   "artifacts": [
     {
       "name": "Saturday Flutter Experiments",
-      "url": "https://twitter.com/i/events/1486311891072806912",
+      "url": "https://saturdays-are-for-flutter.vercel.app",
       "date": "2021-01-01T00:00:00Z",
       "technologies": [
         "flutter",
