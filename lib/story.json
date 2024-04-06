@@ -21,7 +21,7 @@
   ],
   "experiences": [
     {
-      "name": "Software Engineer",
+      "name": "Senior Software Engineer",
       "company": "Albert Heijn Technology",
       "website": "https://www.ah.nl",
       "description": "",
@@ -237,7 +237,7 @@
   ],
   "artifacts": [
     {
-      "name": "Saturday Flutter Experiments",
+      "name": "Saturdays Are For Flutter",
       "url": "https://saturdays-are-for-flutter.vercel.app",
       "date": "2021-01-01T00:00:00Z",
       "technologies": [
@@ -246,7 +246,7 @@
         "flutter-layout"
       ],
       "description": "A series of experimental user interfaces built entirely in Flutter.",
-      "icon": "twitter"
+      "icon": "flutter"
     }
   ],
   "tools": [
