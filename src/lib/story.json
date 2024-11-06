@@ -14,6 +14,7 @@
     "dartlang",
     "flutter",
     "redux",
+    "tfrp",
     "google-cloud-firestore",
     "kotlin",
     "swift",
@@ -30,6 +31,7 @@
         "android",
         "ios",
         "flutter",
+        "flutter-engine",
         "flutter-bloc"
       ],
       "icon": "ah"
@@ -87,6 +89,7 @@
     "jogboms/money.dart",
     "jogboms/bunq.dart",
     "jogboms/ravepay.dart",
+    "jogboms/declarative_reactivity_workshop",
     "jogboms/flutter_offline",
     "jogboms/flutter_spinkit",
     "jogboms/tailor_made",
@@ -98,6 +101,28 @@
     "jogboms/ovavue",
     "jogboms/Event-Bus",
     "jogboms/push"
+  ],
+  "workshops": [
+    {
+      "name": "Declarative reactivity",
+      "date": "2024-06-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "dart",
+        "tfrp",
+        "graph"
+      ],
+      "url": "https://github.com/jogboms/declarative_reactivity_workshop/blob/master/README.md"
+    },
+    {
+      "name": "Demystifying the journey from Widget to the RenderObject",
+      "date": "2023-07-01T00:00:00Z",
+      "technologies": [
+        "flutter",
+        "flutter-rendering"
+      ],
+      "url": "https://gist.github.com/jogboms/c986fed38b457fb04f1ad2febd866199"
+    }
   ],
   "applications": [
     {
@@ -243,7 +268,7 @@
       "technologies": [
         "flutter",
         "flutter-animation",
-        "flutter-layout"
+        "flutter-rendering"
       ],
       "description": "A series of experimental user interfaces built entirely in Flutter.",
       "icon": "flutter"
@@ -251,6 +276,7 @@
   ],
   "tools": [
     "Android Studio",
+    "Xcode",
     "IntelliJ",
     "VSCode"
   ]

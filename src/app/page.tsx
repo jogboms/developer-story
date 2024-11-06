@@ -6,6 +6,7 @@ import {
   Applications,
   Experiences,
   OpenSourceSoftwares,
+  Workshops,
 } from "@/components";
 import { ReactNode } from "react";
 
@@ -46,6 +47,11 @@ export default function Page() {
         />
         <Column>
           <Applications items={story.applications} />
+        </Column>
+
+        <TitleDivider title="PUBLIC WORKSHOPS" />
+        <Column>
+          <Workshops items={story.workshops} />
         </Column>
 
         <TitleDivider title="PUBLIC ARTIFACTS" />
