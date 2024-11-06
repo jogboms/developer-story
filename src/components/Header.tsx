@@ -1,6 +1,6 @@
 import Image from "next/image";
 import { Tags } from "./Tags";
-import { avatarImageSize, iconSize } from "../lib/constants";
+import { avatarImageSize, iconSize } from "@/lib/constants";
 
 type HeaderProps = {
   name: string;

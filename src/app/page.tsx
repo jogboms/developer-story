@@ -1,6 +1,4 @@
-import type { NextPage } from "next";
-import Head from "next/head";
-import data from "../lib/data";
+import data from "@/lib/data";
 import {
   TitleDivider,
   Header,
@@ -8,34 +6,14 @@ import {
   Applications,
   Experiences,
   OpenSourceSoftwares,
-} from "../components";
+} from "@/components";
 import { ReactNode } from "react";
-import { Analytics } from "@vercel/analytics/react";
 
-const Home: NextPage = () => {
+export default function Page() {
   const story = data.story;
-  const app_name = "Developer Story";
-  const title = `${story.name} - ${app_name}`;
+
   return (
     <div className="container mx-auto px-4 lg:px-0 max-w-screen-md">
-      <Head>
-        <title>{title}</title>
-        <meta name="description" content={story.description} />
-        <meta name="twitter:image:src" content={story.image_url} />
-        <meta name="twitter:card" content="summary_large_image" />
-        <meta name="twitter:domain" content={story.website} />
-        <meta name="twitter:title" content={title} />
-        <meta name="twitter:description" content={story.description} />
-        <meta name="og:type" content="website" />
-        <meta name="og:site_name" content={app_name} />
-        <meta name="og:image" content={story.image_url} />
-        <meta name="og:image:alt" content={story.description} />
-        <meta name="og:url" content={story.website} />
-        <meta name="og:description" content={story.description} />
-      </Head>
-
-      <Analytics />
-
       <main className="mt-8 md:mt-16 mb-32">
         <Header
           name={story.name}
@@ -80,10 +58,8 @@ const Home: NextPage = () => {
       </main>
     </div>
   );
-};
+}
 
 const Column = ({ children }: { children: ReactNode }) => (
   <div className="flex flex-col gap-y-4">{children}</div>
 );
-
-export default Home;

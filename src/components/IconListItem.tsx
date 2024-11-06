@@ -1,6 +1,6 @@
 import type { ReactNode } from "react";
 import Image from "next/image";
-import { itemImageSize } from "../lib/constants";
+import { itemImageSize } from "@/lib/constants";
 
 export const IconListItem = ({
   icon,

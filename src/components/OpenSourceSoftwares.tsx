@@ -1,9 +1,11 @@
-import type { OpenSource } from "../lib/data";
+"use client";
+
+import type { OpenSource } from "@/lib/data";
 import dayjs from "dayjs";
 import { IconListItem } from "./IconListItem";
 import { ViewMoreBuilder } from "./ViewMoreBuilder";
 import Image from "next/image";
-import { dateFormat, iconSize } from "../lib/constants";
+import { dateFormat, iconSize } from "@/lib/constants";
 
 export const OpenSourceSoftwares = ({ items }: { items: OpenSource[] }) => (
   <ViewMoreBuilder

@@ -1,9 +1,11 @@
-import type { Artifact } from "../lib/data";
+"use client";
+
+import type { Artifact } from "@/lib/data";
 import { Tags } from "./Tags";
 import { IconListItem } from "./IconListItem";
 import { ViewMoreBuilder } from "./ViewMoreBuilder";
 import dayjs from "dayjs";
-import { dateFormat } from "../lib/constants";
+import { dateFormat } from "@/lib/constants";
 
 export const Artifacts = ({ items }: { items: Artifact[] }) => (
   <ViewMoreBuilder

@@ -1,5 +1,7 @@
+"use client";
+
 import { ReactNode, useState } from "react";
-import { maxExpandedLimit } from "../lib/constants";
+import { maxExpandedLimit } from "@/lib/constants";
 
 export function ViewMoreBuilder<T>({
   items,

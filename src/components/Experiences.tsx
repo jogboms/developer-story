@@ -1,9 +1,14 @@
-import type { Experience } from "../lib/data";
+"use client";
+
+import type { Experience } from "@/lib/data";
 import dayjs from "dayjs";
+import relativeTime from "dayjs/plugin/relativeTime";
 import { Tags } from "./Tags";
 import { IconListItem } from "./IconListItem";
 import { ViewMoreBuilder } from "./ViewMoreBuilder";
-import { dateFormat } from "../lib/constants";
+import { dateFormat } from "@/lib/constants";
+
+dayjs.extend(relativeTime);
 
 export const Experiences = ({ items }: { items: Experience[] }) => (
   <ViewMoreBuilder
