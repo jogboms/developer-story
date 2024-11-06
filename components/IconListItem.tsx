@@ -19,7 +19,6 @@ export const IconListItem = ({
         alt={`${icon} icon`}
         width={itemImageSize}
         height={itemImageSize}
-        layout="fixed"
       />
     </div>
     <div className="flex flex-col grow">{children}</div>

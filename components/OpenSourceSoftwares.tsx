@@ -39,7 +39,6 @@ export const OpenSourceSoftwares = ({ items }: { items: OpenSource[] }) => (
                 alt={`star icon`}
                 width={iconSize}
                 height={iconSize}
-                layout="fixed"
               />
               <span className="px-1 text-xs">{oss.stars}</span>
             </span>

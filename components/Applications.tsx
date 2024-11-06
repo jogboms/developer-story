@@ -57,7 +57,7 @@ const IconButton = ({
   <a
     target="_blank"
     rel="noreferrer"
-    className="flex items-center bg-slate-100 block p-1"
+    className="flex items-center bg-slate-100 p-1"
     href={url}
   >
     <Image
@@ -65,7 +65,6 @@ const IconButton = ({
       alt={icon}
       width={iconSize}
       height={iconSize}
-      layout="intrinsic"
     />
   </a>
 );
