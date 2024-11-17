@@ -3,9 +3,11 @@
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
     "stars": 498,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2019-10-06T00:00:00.000Z",
+    "last_commit_date": "2024-06-09T00:00:00.000Z",
+    "commits": 48,
+    "additions": 889,
+    "deletions": 452
   },
   "jogboms/registry.dart": {
     "name": "jogboms/registry.dart",
@@ -27,9 +29,11 @@
     "name": "jogboms/bunq.dart",
     "description": "🌈 Minimal Dart API layer for Bunq https://www.bunq.com",
     "stars": 8,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2019-09-15T00:00:00.000Z",
+    "last_commit_date": "2019-10-06T00:00:00.000Z",
+    "commits": 8,
+    "additions": 3476,
+    "deletions": 1036
   },
   "jogboms/ravepay.dart": {
     "name": "jogboms/ravepay.dart",
@@ -83,25 +87,31 @@
     "name": "jogboms/flutter_scale_aware",
     "description": "🎗 Scale-based layouts with a bit more ease, powered by extensions.",
     "stars": 25,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2019-11-03T00:00:00.000Z",
+    "last_commit_date": "2021-05-30T00:00:00.000Z",
+    "commits": 19,
+    "additions": 3504,
+    "deletions": 1045
   },
   "jogboms/pnyws": {
     "name": "jogboms/pnyws",
     "description": "💰 Pnyws (PennyWise): An expense tracker.",
     "stars": 35,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2020-02-09T00:00:00.000Z",
+    "last_commit_date": "2020-08-02T00:00:00.000Z",
+    "commits": 75,
+    "additions": 8242,
+    "deletions": 3000
   },
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
     "description": "🖼 A basic Flutter app built for educational purposes",
     "stars": 41,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2022-01-02T00:00:00.000Z",
+    "last_commit_date": "2022-01-16T00:00:00.000Z",
+    "commits": 64,
+    "additions": 5868,
+    "deletions": 850
   },
   "jogboms/iirc": {
     "name": "jogboms/iirc",
@@ -123,9 +133,11 @@
     "name": "jogboms/Event-Bus",
     "description": "A micro event emitting and management system for PHP",
     "stars": 2,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2016-03-27T00:00:00.000Z",
+    "last_commit_date": "2016-03-27T00:00:00.000Z",
+    "commits": 5,
+    "additions": 694,
+    "deletions": 166
   },
   "jogboms/push": {
     "name": "jogboms/push",
