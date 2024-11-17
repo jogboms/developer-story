@@ -4,7 +4,7 @@ module.exports = async function ({ github, core }) {
   const { GITHUB_WORKSPACE } = process.env;
 
   const { opensource } = JSON.parse(
-    fs.readFileSync(`${GITHUB_WORKSPACE}/lib/story.json`, "utf-8").toString()
+    fs.readFileSync(`${GITHUB_WORKSPACE}/src/lib/story.json`, "utf-8").toString()
   );
   const queries = opensource.map((item) => {
     const [owner, repo] = item.split("/");
@@ -96,7 +96,7 @@ module.exports = async function ({ github, core }) {
   }
 
   fs.writeFileSync(
-    `${GITHUB_WORKSPACE}/lib/oss.json`,
+    `${GITHUB_WORKSPACE}/src/lib/oss.json`,
     `${JSON.stringify(
       results.reduce(
         (acc, item) => ({
