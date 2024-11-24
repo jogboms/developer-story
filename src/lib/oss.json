@@ -3,11 +3,9 @@
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
     "stars": 498,
-    "first_commit_date": "2019-10-06T00:00:00.000Z",
-    "last_commit_date": "2024-06-09T00:00:00.000Z",
-    "commits": 48,
-    "additions": 889,
-    "deletions": 452
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/registry.dart": {
     "name": "jogboms/registry.dart",
@@ -29,11 +27,9 @@
     "name": "jogboms/bunq.dart",
     "description": "🌈 Minimal Dart API layer for Bunq https://www.bunq.com",
     "stars": 8,
-    "first_commit_date": "2019-09-15T00:00:00.000Z",
-    "last_commit_date": "2019-10-06T00:00:00.000Z",
-    "commits": 8,
-    "additions": 3476,
-    "deletions": 1036
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/ravepay.dart": {
     "name": "jogboms/ravepay.dart",
@@ -54,7 +50,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1075,
+    "stars": 1078,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -62,7 +58,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 3020,
+    "stars": 3024,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -87,36 +83,30 @@
     "name": "jogboms/flutter_scale_aware",
     "description": "🎗 Scale-based layouts with a bit more ease, powered by extensions.",
     "stars": 25,
-    "first_commit_date": "2019-11-03T00:00:00.000Z",
-    "last_commit_date": "2021-05-30T00:00:00.000Z",
-    "commits": 19,
-    "additions": 3504,
-    "deletions": 1045
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/pnyws": {
     "name": "jogboms/pnyws",
     "description": "💰 Pnyws (PennyWise): An expense tracker.",
     "stars": 35,
-    "first_commit_date": "2020-02-09T00:00:00.000Z",
-    "last_commit_date": "2020-08-02T00:00:00.000Z",
-    "commits": 75,
-    "additions": 8242,
-    "deletions": 3000
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/rijksbook": {
     "name": "jogboms/rijksbook",
     "description": "🖼 A basic Flutter app built for educational purposes",
     "stars": 41,
-    "first_commit_date": "2022-01-02T00:00:00.000Z",
-    "last_commit_date": "2022-01-16T00:00:00.000Z",
-    "commits": 64,
-    "additions": 5868,
-    "deletions": 850
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/iirc": {
     "name": "jogboms/iirc",
     "description": "🤔 IIRC (If I remember correctly): For keeping track of important recurring events.",
-    "stars": 50,
+    "stars": 51,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -133,11 +123,9 @@
     "name": "jogboms/Event-Bus",
     "description": "A micro event emitting and management system for PHP",
     "stars": 2,
-    "first_commit_date": "2016-03-27T00:00:00.000Z",
-    "last_commit_date": "2016-03-27T00:00:00.000Z",
-    "commits": 5,
-    "additions": 694,
-    "deletions": 166
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/push": {
     "name": "jogboms/push",
