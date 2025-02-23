@@ -26,7 +26,7 @@
   "jogboms/bunq.dart": {
     "name": "jogboms/bunq.dart",
     "description": "🌈 Minimal Dart API layer for Bunq https://www.bunq.com",
-    "stars": 8,
+    "stars": 9,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1126,
+    "stars": 1133,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -58,7 +58,7 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 3053,
+    "stars": 3054,
     "commits": 0,
     "additions": 0,
     "deletions": 0
