@@ -42,7 +42,7 @@
   "jogboms/declarative_reactivity_workshop": {
     "name": "jogboms/declarative_reactivity_workshop",
     "description": "Implement a declarative reactivity system from scratch.",
-    "stars": 22,
+    "stars": 23,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1203,
+    "stars": 1210,
     "commits": 0,
     "additions": 0,
     "deletions": 0
