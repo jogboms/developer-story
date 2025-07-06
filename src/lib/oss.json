@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 503,
+    "stars": 504,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,7 +50,7 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1215,
+    "stars": 1219,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -58,17 +58,15 @@
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 3083,
-    "first_commit_date": "2018-06-24T00:00:00.000Z",
-    "last_commit_date": "2024-10-27T00:00:00.000Z",
-    "commits": 101,
-    "additions": 12508,
-    "deletions": 5646
+    "stars": 3086,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 331,
+    "stars": 332,
     "commits": 0,
     "additions": 0,
     "deletions": 0
