@@ -50,17 +50,15 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1249,
-    "first_commit_date": "2018-09-02T00:00:00.000Z",
-    "last_commit_date": "2024-06-09T00:00:00.000Z",
-    "commits": 33,
-    "additions": 5105,
-    "deletions": 3011
+    "stars": 1251,
+    "commits": 0,
+    "additions": 0,
+    "deletions": 0
   },
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 3116,
+    "stars": 3117,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -68,7 +66,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 334,
+    "stars": 335,
     "commits": 0,
     "additions": 0,
     "deletions": 0
