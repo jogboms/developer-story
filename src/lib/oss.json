@@ -2,7 +2,7 @@
   "jogboms/time.dart": {
     "name": "jogboms/time.dart",
     "description": "⏰ Type-safe DateTime and Duration calculations, powered by extensions.",
-    "stars": 507,
+    "stars": 506,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -50,15 +50,17 @@
   "jogboms/flutter_offline": {
     "name": "jogboms/flutter_offline",
     "description": "✈️ A tidy utility to handle offline/online connectivity like a Boss",
-    "stars": 1317,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "stars": 1324,
+    "first_commit_date": "2018-09-02T00:00:00.000Z",
+    "last_commit_date": "2024-06-09T00:00:00.000Z",
+    "commits": 33,
+    "additions": 5105,
+    "deletions": 3011
   },
   "jogboms/flutter_spinkit": {
     "name": "jogboms/flutter_spinkit",
     "description": "✨ A collection of loading indicators animated with flutter. Heavily Inspired by http://tobiasahlin.com/spinkit.",
-    "stars": 3144,
+    "stars": 3143,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -66,7 +68,7 @@
   "jogboms/tailor_made": {
     "name": "jogboms/tailor_made",
     "description": "✄ Managing a Fashion designer's daily routine.",
-    "stars": 341,
+    "stars": 339,
     "commits": 0,
     "additions": 0,
     "deletions": 0
@@ -75,9 +77,11 @@
     "name": "jogboms/developer-story",
     "description": "StackOverflow is sunsetting the developer story feature. See https://meta.stackoverflow.com/questions/415293/sunsetting-jobs-developer-story",
     "stars": 8,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2022-02-06T00:00:00.000Z",
+    "last_commit_date": "2024-11-17T00:00:00.000Z",
+    "commits": 18,
+    "additions": 8037,
+    "deletions": 2498
   },
   "jogboms/flutter_scale_aware": {
     "name": "jogboms/flutter_scale_aware",
@@ -115,9 +119,11 @@
     "name": "jogboms/ovavue",
     "description": "💸 A tidy budget overview planner.",
     "stars": 72,
-    "commits": 0,
-    "additions": 0,
-    "deletions": 0
+    "first_commit_date": "2023-03-26T00:00:00.000Z",
+    "last_commit_date": "2026-01-11T00:00:00.000Z",
+    "commits": 247,
+    "additions": 50593,
+    "deletions": 19933
   },
   "jogboms/Event-Bus": {
     "name": "jogboms/Event-Bus",
